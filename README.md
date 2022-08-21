@@ -19,6 +19,7 @@ Implemented Twitter Application
 <hr>
 
 ===== Technologies Used =====
+<br>
 -> NodeJS <br>
 -> Express Js<br>
 -> MongoDB<br>
