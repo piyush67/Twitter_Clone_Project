@@ -1,9 +1,11 @@
 ======= TWITTER CLONE ========
+<br>
 Implemented Twitter Application
 
 <hr>
 
 ===== Dependencies =====
+<br>
 -> dotenv<br>
 -> mongoose<br>
 -> socket.io<br>
